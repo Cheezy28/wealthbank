@@ -119,5 +119,5 @@ Voici une description détaillée (matrice RACI) de l'équipe projet.
 
 ## Rédacteurs
 
-Laurent SALESPARA - MSI 5-23 PO - ISI PARIS
+Laurent SALESPARA - MSI 5-23 PO
 
