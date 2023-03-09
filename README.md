@@ -107,6 +107,16 @@ Le projet aura une durée de 1 an et 5 mois. Il se composera de 5 phases d'avanc
 
 ![Planning Gantt](https://github.com/Cheezy28/wealthbank/blob/images/Wealth%20Bank_Gantt.png) 
 
+## 5. Conduite du changement 
+
+test modif
+
+## 6. Matrice RACI de l'équipement de développement 
+
+Voici une description détaillée (matrice RACI) de l'équipe projet.
+
+![Mactrice RACI équipe projet](https://github.com/Cheezy28/wealthbank/blob/images/raci.png)
+
 ## Authors
 
 Laurent SALESPARA - MSI 5-23 PO - ISI PARIS
