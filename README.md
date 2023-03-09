@@ -13,5 +13,5 @@ La société souhaite développer de nouvelles fonctionnalités à savoir le dé
 
 Par ailleurs, d'autres fonctionnalités envisagées pourront être rajoutées au projet. 
 
-!(https://github.com/Cheezy28/wealthbank/blob/cdc/Wealth%20Bank_Gantt.png)
+![Planning GANTT](https://github.com/Cheezy28/wealthbank/blob/cdc/Wealth%20Bank_Gantt.png)
 
