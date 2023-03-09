@@ -9,7 +9,7 @@ Cahier de charges - Projet développement de nouvelles fonctionnalités de l'app
 ## 1. Contexte
 
 <p align="center">
-   <img src="https://github.com/Cheezy28/wealthbank/blob/images/contexte.png" width = 100 height = 100/>
+   <img src="https://github.com/Cheezy28/wealthbank/blob/images/contexte.png" width = 200 height = 200/>
 </p>
 
 Ce projet mené par l'entreprise spécialisée dans la finance WealthBank a pour but de développer de nouvelles fonctionnalités pour leur application bancaire actuellement en production.  
