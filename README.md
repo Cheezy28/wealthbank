@@ -21,12 +21,12 @@ Pour le moment, l'application de la société permet aux utilisateurs d'accéder
 
 Plusieurs règles de gestion ont été mises en place pour un accès à l'application. 
 
-Pour les règles de l'application, il faut : 
+Pour l'application, il faut : 
 - être connecté 
 - connaître ses identifiants personnes pour se connecter 
 - avoir un appareil avec une connexion internet tel qu'un smartphone, une tablette ou un ordinateur
 
-Pour les règles des comptes bancaires : 
+Pour les comptes bancaires : 
 - Paramétrer les comptes bancaires 
 - Visualiser les informations bancaires 
 - Afficher l'historique des opérations effectuée
@@ -36,5 +36,5 @@ Pour les règles des comptes bancaires :
 
 ## Authors
 
-- Laurent SALESPARA
+Laurent SALESPARA - MSI 5-23 PO - ISI PARIS
 
