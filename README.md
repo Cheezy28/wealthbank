@@ -55,7 +55,15 @@ La société dispose de plusieurs profils d'utilisateurs :
 
 ### 2.1. Fonctionnalité n°1 - Dépôt d'argent 
 
-La première fonctionnalité demandée aura pour but de permettre au client d'effectuer des dépôts d'argent via un guichet automatique (ou avec un agent) et d'obtenir la mise à jour sur son espace en ligne. 
+La première fonctionnalité doit permettre au client d'effectuer des dépôts d'argent via un guichet automatique (ou avec un agent) afin de créditer son compte bancaire. 
+
+Le client devra avoir une carte bancaire et connaître son code secret à 4 chiffres. 
+
+### 2.2. Fonctionnalité n°2 - Retrait d'argent 
+
+La deuxième fonctionnalité doit permettre au client d'effectuer des retraits d'argent via un guichet automatique (ou avec un agent) afin de disposer d'argent liquide. 
+
+Le client devra avoir une carte bancaire et connaître son code secret à 4 chiffres. 
 
 ## Authors
 
