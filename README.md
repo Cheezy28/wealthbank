@@ -132,19 +132,35 @@ Le projet aura une durée de 1 an et 5 mois. Il se composera de 5 phases d'avanc
 
 ![Planning Gantt](https://github.com/Cheezy28/wealthbank/blob/images/Wealth%20Bank_Gantt.png) 
 
-## 5. Conduite du changement 
-
-<p align="center">
-   <img src="https://github.com/Cheezy28/wealthbank/blob/images/changement.png" width = 200 height = 200/>
-</p>
-
-test modif
-
-## 6. Matrice RACI de l'équipement de développement 
+## 5. Matrice RACI de l'équipement de développement 
 
 Voici une description détaillée (matrice RACI) de l'équipe projet.
 
 ![Mactrice RACI équipe projet](https://github.com/Cheezy28/wealthbank/blob/images/raci.png)
+
+## 6. Description détaillée de formations & support technique 
+
+Lors de la livraison de chaque fonctionnalité (independante des autres), des plans de formation seront envoyées à l'ensemble des utilisateurs leur permettant de se familiariser avec la nouvelle fonctionnalité. 
+
+#### Fonctionnalité n°1 
+
+--> Envoi par mail d'une vidéo explicative de la nouvelle fonctionnalité de dépôt d'argent livrée sur l'application après une mise à jour faite du côté de l'utilisateur. 
+Durée de la communication : 1 semaine. 
+
+#### Fonctionnalité n°2 
+
+--> Envoi par mail d'un tuto écrit (avec des schémas) détaillé de la nouvelle fonctionnalité de retrait d'argent après une mise à jour faite du côté de l'utilisateur. 
+Durée de la communication : 1 semaine. 
+
+#### Fonctionnalité n°3 
+
+--> Envoi par mail d'une vidéo tuto détaillée de la nouvelle fonctionnalité de consultation de l'historique des opérations bancaires. 
+Durée de la communication : 1 semaine. 
+
+#### Fonctionnalité n°4 (optionnelle)
+
+--> Envoi par mail d'une proposition de formation en ligne de la nouvelle fonctionnalité de virements bancaires.
+Durée de la communication : 1 semaine. 
 
 ## Rédacteurs
 
