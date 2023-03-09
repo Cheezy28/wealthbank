@@ -41,6 +41,12 @@ Pour les utilisateurs :
 - Renseigner ses informations personnelles présentes sur sa carte d'identité (CIN)
 - Fournir son statut familial et professionnel 
 
+#### Profils des utilisateurs 
+
+La société dispose de plusieurs profils d'utilisateurs : 
+- Particuliers
+- Professionnels
+- Associations 
 
 ## Authors
 
