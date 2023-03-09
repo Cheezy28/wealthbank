@@ -21,15 +21,20 @@ Pour le moment, l'application de la société permet aux utilisateurs d'accéder
 
 Plusieurs règles de gestion ont été mises en place pour un accès à l'application. 
 
-Pour l'application, il faut : 
-- être connecté 
-- connaître ses identifiants personnes pour se connecter 
-- avoir un appareil avec une connexion internet tel qu'un smartphone, une tablette ou un ordinateur
+Pour l'application : 
+- Etre connecté 
+- Connaître ses identifiants personnes pour se connecter 
+- Avoir un appareil avec une connexion internet tel qu'un smartphone, une tablette ou un ordinateur
 
 Pour les comptes bancaires : 
 - Paramétrer les comptes bancaires 
 - Visualiser les informations bancaires 
 - Afficher l'historique des opérations effectuée
+
+Pour les virement bancaires : 
+- Disposer du RIB du destinataire 
+- Disposer des informations personnelles du destinataire (nom, prénom, adresse postale)
+- Insérer un motif du virement bancaire 
 
 
 
