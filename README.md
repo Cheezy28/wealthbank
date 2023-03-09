@@ -71,6 +71,12 @@ La troisième fonctionnalité doit permettre au client de visualiser (sur son es
 
 Le client devra connaître ses identifiants de connexion, d'avoir une connexion internet, de disposer d'un appareil connecté à internet. 
 
+### Fonctionnalité n°4 (optionnelle) - Virement bancaires 
+
+La quatrième fonctionnalité doit permettre au client d'effectuer des virements bancaires vers d'autres structures dans le cadre d'achats de produits ou services en ligne. 
+
+Le client devra connaître ses identifiants de connexion, d'avoir une connexion internet, de disposer d'un appareil connecté à internet. 
+
 ## Authors
 
 Laurent SALESPARA - MSI 5-23 PO - ISI PARIS
