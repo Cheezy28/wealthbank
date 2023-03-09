@@ -79,6 +79,28 @@ Le client devra connaître ses identifiants de connexion, d'avoir une connexion 
 
 Cette fonctionnalité optionnelle validée sera à mettre en place en fonction de l'avancement du projet. 
 
+## 3. Exigences techniques 
+
+### 3.1. Sécurité 
+
+L'application doit être hébergée chez AWS pour une meilleure sécurité.
+
+### 3.2. Performance 
+
+L'application doit être disponible 7j7 et 24h24 et doit être autoscalable afin d'anticiper les potentiels pics d'activité. 
+
+### Technologies à utiliser 
+
+Plusieurs technologies seront à utiliser pour ce projet : 
+
+- pHp
+- Docker 
+- AWS
+- GitLab & HitHub
+- Kubernetes 
+- phpMySQL
+- HTML & CSS
+
 ## Authors
 
 Laurent SALESPARA - MSI 5-23 PO - ISI PARIS
