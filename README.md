@@ -93,6 +93,10 @@ Cette fonctionnalité optionnelle validée sera à mettre en place en fonction d
 
 ## 3. Exigences techniques 
 
+<p align="center">
+   <img src="https://github.com/Cheezy28/wealthbank/blob/images/exigences.png" width = 200 height = 200/>
+</p>
+
 ### 3.1. Sécurité 
 
 L'application doit être hébergée chez AWS pour une meilleure sécurité.
