@@ -1,8 +1,8 @@
-# Cahier des charges - Projet WealthBank
-
 <p align="center">
    <img src="https://github.com/Cheezy28/wealthbank/blob/images/wealthbank_logo.png""/>
 </p>
+
+# Cahier des charges - Projet WealthBank
 
 Cahier de charges - Projet développement de nouvelles fonctionnalités de l'application bancaire WealthBank.
 
