@@ -61,6 +61,10 @@ La société dispose de plusieurs profils d'utilisateurs :
 
 ## 2. Spécificités techniques 
 
+<p align="center">
+   <img src="https://github.com/Cheezy28/wealthbank/blob/images/spec_technique.png" width = 200 height = 200/>
+</p>
+
 ### 2.1. Fonctionnalité n°1 - Dépôt d'argent 
 
 La première fonctionnalité doit permettre au client d'effectuer des dépôts d'argent via un guichet automatique (ou avec un agent) afin de créditer son compte bancaire. 
