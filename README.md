@@ -1,6 +1,6 @@
 # Projet WealthBank
 
-Cahier de charges - Développement de nouvelles fonctionnalités de l'application bancaire WealthBank.
+Cahier de charges - Projet développement de nouvelles fonctionnalités de l'application bancaire WealthBank.
 
 ## Cahier des charges
 
