@@ -103,9 +103,9 @@ Plusieurs technologies seront à utiliser pour ce projet :
 
 ## 4. Planning 
 
-Le projet aura une durée de 1 an et 5 mois.
+Le projet aura une durée de 1 an et 5 mois. Il se composera de 5 phases d'avancement. 
 
-![Planning Gantt](https://github.com/Cheezy28/wealthbank/blob/images/Wealth%20Bank_Gantt.png)
+![Planning Gantt](https://github.com/Cheezy28/wealthbank/blob/images/Wealth%20Bank_Gantt.png) 
 
 ## Authors
 
