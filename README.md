@@ -30,3 +30,11 @@ Pour les règles des comptes bancaires :
 - Paramétrer les comptes bancaires 
 - Visualiser les informations bancaires 
 - Afficher l'historique des opérations effectuée
+
+
+
+
+## Authors
+
+- Laurent SALESPARA
+
