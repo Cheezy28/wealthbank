@@ -13,8 +13,4 @@ La société souhaite développer de nouvelles fonctionnalités à savoir le dé
 
 Par ailleurs, d'autres fonctionnalités envisagées pourront être rajoutées au projet. 
 
-### Environnement du projet 
-
-L'application de la société est utilisable via un navigateur web, une application iOS ou Android et également dans les distributeurs automatiques pour plus de sécurité. 
-
 test
