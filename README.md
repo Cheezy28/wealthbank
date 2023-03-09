@@ -117,7 +117,7 @@ Voici une description détaillée (matrice RACI) de l'équipe projet.
 
 ![Mactrice RACI équipe projet](https://github.com/Cheezy28/wealthbank/blob/images/raci.png)
 
-## Authors
+## Rédacteurs
 
 Laurent SALESPARA - MSI 5-23 PO - ISI PARIS
 
