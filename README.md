@@ -51,7 +51,7 @@ La société dispose de plusieurs profils d'utilisateurs :
 - Professionnels
 - Associations 
 
-### 2. Spécificités techniques 
+## 2. Spécificités techniques 
 
 ### 2.1. Fonctionnalité n°1 - Dépôt d'argent 
 
