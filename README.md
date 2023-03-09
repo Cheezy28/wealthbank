@@ -1,2 +1,4 @@
-# wealthbank
-Devoir Master Product Owner - 2022-2023
+# WealthBank
+
+Cahier de charges - Développement de nouvelles fonctionnalités de l'application bancaire WealthBank.
+
