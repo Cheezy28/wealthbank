@@ -13,11 +13,11 @@ La société souhaite développer de nouvelles fonctionnalités à savoir le dé
 
 Par ailleurs, d'autres fonctionnalités envisagées pourront être rajoutées au projet. 
 
-#### 1.1. Fonctions générales 
+### 1.1. Fonctions générales 
 
 Pour le moment, l'application de la société permet aux utilisateurs d'accéder à leur espace en ligne via leurs identifiants, de créer des comptes bancaires ou d'effectuer des virements bancaires simples (entre proches). 
 
-#### 1.2. Règles de gestion générale de l'application 
+### 1.2. Règles de gestion générale de l'application 
 
 Plusieurs règles de gestion ont été mises en place pour un accès à l'application. 
 
@@ -41,7 +41,7 @@ Pour les utilisateurs :
 - Renseigner ses informations personnelles présentes sur sa carte d'identité (CIN)
 - Fournir son statut familial et professionnel 
 
-#### 1.3. Profils des utilisateurs 
+### 1.3. Profils des utilisateurs 
 
 La société dispose de plusieurs profils d'utilisateurs : 
 - Particuliers
