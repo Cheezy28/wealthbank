@@ -77,6 +77,8 @@ La quatrième fonctionnalité doit permettre au client d'effectuer des virements
 
 Le client devra connaître ses identifiants de connexion, d'avoir une connexion internet, de disposer d'un appareil connecté à internet. 
 
+Cette fonctionnalité optionnelle validée sera à mettre en place en fonction de l'avancement du projet. 
+
 ## Authors
 
 Laurent SALESPARA - MSI 5-23 PO - ISI PARIS
