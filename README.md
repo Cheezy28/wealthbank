@@ -101,6 +101,12 @@ Plusieurs technologies seront à utiliser pour ce projet :
 - phpMySQL
 - HTML & CSS
 
+## 4. Planning 
+
+Le projet aura une durée de 1 an et 5 mois.
+
+![Planning Gantt](https://github.com/Cheezy28/wealthbank/blob/images/Wealth%20Bank_Gantt.png)
+
 ## Authors
 
 Laurent SALESPARA - MSI 5-23 PO - ISI PARIS
