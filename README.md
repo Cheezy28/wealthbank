@@ -12,7 +12,7 @@ La société souhaite développer de nouvelles fonctionnalités à savoir le dé
 ### 1.1 Objectifs 
 
 La but principal de ce projet est d'apporter des évolutions de l'applications bancaire permettant aux utilisateurs d'effectuer davantages d'actions sur leur espace en ligne. 
-Les principales évolutions souhaitées sont le dépôt d'argent, le retrait d'argent et la consultation de l'historique des opérations. 
+Les principales évolutions souhaitées sont le dépôt d'argent, le retrait d'argent et la consultation de l'historique des opérations bancaires. 
 
 Par ailleurs, d'autres fonctionnalités envisagées pourront être rajoutées au projet. 
 
@@ -32,7 +32,7 @@ Pour l'application :
 Pour les comptes bancaires : 
 - Paramétrer les comptes bancaires 
 - Visualiser les informations bancaires 
-- Afficher l'historique des opérations effectuée
+- Afficher l'historique des opérations bancaires effectuées
 
 Pour les virement bancaires : 
 - Disposer du RIB du destinataire 
@@ -64,6 +64,12 @@ Le client devra avoir une carte bancaire et connaître son code secret à 4 chif
 La deuxième fonctionnalité doit permettre au client d'effectuer des retraits d'argent via un guichet automatique (ou avec un agent) afin de disposer d'argent liquide. 
 
 Le client devra avoir une carte bancaire et connaître son code secret à 4 chiffres. 
+
+### Fonctionnalité n°3 - Consultation de l'historique des opérations bancaires 
+
+La troisième fonctionnalité doit permettre au client de visualiser (sur son espace en ligne) l'intégralité de l'historique des opérations bancaires effectuées. 
+
+Le client devra connaître ses identifiants de connexion, d'avoir une connexion internet, de disposer d'un appareil connecté à internet. 
 
 ## Authors
 
