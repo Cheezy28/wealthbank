@@ -1,10 +1,8 @@
-# Projet WealthBank
+# Cahier des charges - Projet WealthBank
 
 Cahier de charges - Projet développement de nouvelles fonctionnalités de l'application bancaire WealthBank.
 
-## Cahier des charges
-
-### 1. Contexte 
+## 1. Contexte
 
 Ce projet mené par l'entreprise spécialisée dans la finance WealthBank a pour but de développer de nouvelles fonctionnalités pour leur application bancaire actuellement en production.  
 Les utilisateurs de l'application disposent pour le moment d'un espace en ligne et effectuer des actions basiques (modifications de leurs informations personnelles).
