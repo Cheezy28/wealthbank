@@ -142,22 +142,22 @@ Voici une description détaillée (matrice RACI) de l'équipe projet.
 
 Lors de la livraison de chaque fonctionnalité (independante des autres), des plans de formation seront envoyées à l'ensemble des utilisateurs leur permettant de se familiariser avec la nouvelle fonctionnalité. 
 
-#### Fonctionnalité n°1 
+#### Fonctionnalité n°1 - Dépôt d'argent 
 
 --> Envoi par mail d'une vidéo explicative de la nouvelle fonctionnalité de dépôt d'argent livrée sur l'application après une mise à jour faite du côté de l'utilisateur. 
 Durée de la communication : 1 semaine. 
 
-#### Fonctionnalité n°2 
+#### Fonctionnalité n°2 - Retrait d'argent 
 
 --> Envoi par mail d'un tuto écrit (avec des schémas) détaillé de la nouvelle fonctionnalité de retrait d'argent après une mise à jour faite du côté de l'utilisateur. 
 Durée de la communication : 1 semaine. 
 
-#### Fonctionnalité n°3 
+#### Fonctionnalité n°3 - Consultation de l'historique des opérations 
 
 --> Envoi par mail d'une vidéo tuto détaillée de la nouvelle fonctionnalité de consultation de l'historique des opérations bancaires. 
 Durée de la communication : 1 semaine. 
 
-#### Fonctionnalité n°4 (optionnelle)
+#### Fonctionnalité n°4 (optionnelle) - Virements bancaires 
 
 --> Envoi par mail d'une proposition de formation en ligne de la nouvelle fonctionnalité de virements bancaires.
 Durée de la communication : 1 semaine. 
