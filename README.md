@@ -8,7 +8,8 @@ Cahier de charges - Projet développement de nouvelles fonctionnalités de l'app
 
 ## SOMMAIRE 
 
- 1. [Contexte](#Contexte)
+1. [Contexte](#contexte)
+[Planning](€planning)
 
 ## 1. Contexte
 
