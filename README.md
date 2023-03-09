@@ -36,7 +36,10 @@ Pour les virement bancaires :
 - Disposer des informations personnelles du destinataire (nom, prénom, adresse postale)
 - Insérer un motif du virement bancaire 
 
-
+Pour les utilisateurs : 
+- Créer un compte bancaire chez WealthBank 
+- Renseigner ses informations personnelles présentes sur sa carte d'identité (CIN)
+- Fournir son statut familial et professionnel 
 
 
 ## Authors
