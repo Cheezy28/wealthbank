@@ -6,6 +6,10 @@
 
 Cahier de charges - Projet développement de nouvelles fonctionnalités de l'application bancaire WealthBank.
 
+## SOMMAIRE 
+
+ 1. [Contexte](#contexte)
+
 ## 1. Contexte
 
 <p align="center">
