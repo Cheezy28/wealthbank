@@ -4,7 +4,7 @@ Cahier de charges - Développement de nouvelles fonctionnalités de l'applicatio
 
 ## Cahier des charges
 
-### Contexte 
+### 1. Contexte 
 
 Ce projet mené par l'entreprise spécialisée dans la finance WealthBank a pour but de développer de nouvelles fonctionnalités pour leur application bancaire actuellement en production.  
 Les utilisateurs de l'application disposent pour le moment d'un espace en ligne et effectuer des actions basiques (modifications de leurs informations personnelles).
@@ -13,11 +13,11 @@ La société souhaite développer de nouvelles fonctionnalités à savoir le dé
 
 Par ailleurs, d'autres fonctionnalités envisagées pourront être rajoutées au projet. 
 
-#### Fonctions générales 
+#### 1.1. Fonctions générales 
 
 Pour le moment, l'application de la société permet aux utilisateurs d'accéder à leur espace en ligne via leurs identifiants, de créer des comptes bancaires ou d'effectuer des virements bancaires simples (entre proches). 
 
-#### Règles de gestion générale de l'application 
+#### 1.2. Règles de gestion générale de l'application 
 
 Plusieurs règles de gestion ont été mises en place pour un accès à l'application. 
 
@@ -41,7 +41,7 @@ Pour les utilisateurs :
 - Renseigner ses informations personnelles présentes sur sa carte d'identité (CIN)
 - Fournir son statut familial et professionnel 
 
-#### Profils des utilisateurs 
+#### 1.3. Profils des utilisateurs 
 
 La société dispose de plusieurs profils d'utilisateurs : 
 - Particuliers
